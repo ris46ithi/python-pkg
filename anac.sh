@@ -3,4 +3,4 @@ apt-get install git wget libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libx
 wget https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_64.sh
 chmod 777 Anaconda3-2019.07-Linux-x86_64.sh
 ./Anaconda3-2019.07-Linux-x86_64.sh
-return 0
+
