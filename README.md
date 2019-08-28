@@ -1,3 +1,4 @@
-# python-pkg-Anaconda instalation Shell (anac.sh)
+# Anaconda Installation Shell (anac.sh)
+
 chmod 777 anac.sh
 ./anac.sh
